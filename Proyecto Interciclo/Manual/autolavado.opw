@@ -1,0 +1,49 @@
+[RESOURCES]
+Resource 9
+Resource 8
+Resource 7
+Resource 6
+Resource 5
+Resource 4
+Resource 3
+Resource 2
+Resource 1
+[VARIABLES]
+Agua y jabon trailer.NumberOut
+Encerado y Secado Trailer.WaitTime
+Cepillado Trailer.NumberIn
+Cepillado Trailer.NumberOut
+Encerado y secado Camion.NumberIn
+Encerado y Secado Carro.VATime
+Agua y jabon trailer.NumberIn
+Encerado y secado Camion.NumberOut
+Cepillado Carro.NumberOut
+Cepillado Carro.VATime
+Agua y jabon trailer.WaitTime
+Encerado y Secado Carro.NumberIn
+Encerado y Secado Trailer.VATime
+Entrada.NumberOut
+Cepillado Camion.VATime
+Agua y Jabon Carro.NumberIn
+Cepillado Trailer.WaitTime
+Encerado y secado Camion.WaitTime
+Encerado y Secado Trailer.NumberOut
+Encerado y Secado Trailer.NumberIn
+Cepillado Camion.NumberIn
+Agua y jabon Camion.WaitTime
+Encerado y Secado Carro.NumberOut
+Cepillado Camion.NumberOut
+Dispose 1.NumberOut
+Agua y Jabon Carro.WaitTime
+Cepillado Carro.WaitTime
+Agua y jabon trailer.VATime
+Agua y jabon Camion.NumberOut
+Agua y jabon Camion.NumberIn
+Cepillado Camion.WaitTime
+Encerado y Secado Carro.WaitTime
+Agua y Jabon Carro.VATime
+Cepillado Trailer.VATime
+Cepillado Carro.NumberIn
+Agua y jabon Camion.VATime
+Agua y Jabon Carro.NumberOut
+Encerado y secado Camion.VATime
